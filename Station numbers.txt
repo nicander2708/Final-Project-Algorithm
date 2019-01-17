@@ -1,0 +1,80 @@
+c 1: Tangerang
+c 2: Tanah Tinggi
+c 3: Batu Ceper
+c 4: Poris
+c 5: Kali Deres
+c 6: Rawa Buaya
+c 7: Bojong Indah
+c 8: Taman Kota
+c 9: Pesing
+c 10: Grogol
+c 11: Duri
+c 12: Angke
+c 13: Kampung Bandan
+c 14: Ancol
+c 15: Tanjung Priok
+c 16: Rajawali
+c 17: Kemayoran
+c 18: Pasar Senen
+c 19: Gang Sentiong
+c 20: Kramat
+c 21: Pondok Jati
+c 22: Jatinegara
+c 23: Cipinang
+c 24: Klender
+c 25: Buaran
+c 26: Klender Baru
+c 27: Cakung
+c 28: Kranji
+c 29: Bekasi
+c 30: Manggarai
+c 31: Tebet
+c 32: Cawang
+c 33: Duren Kalibata
+c 34: Pasar Minggu Baru
+c 35: Pasar Minggu
+c 36: Tanjung Barat
+c 37: Lenteng Agung
+c 38: Univ Pancasila
+c 39: Univ Indonesia
+c 40: Pondok Cina
+c 41: Depok Baru
+c 42: Depok
+c 43: Citayam
+c 44: Pondok Rajeg
+c 45: Cibinong 
+c 46: Gunung Putri
+c 47: Nambo
+c 48: Bojong Gede
+c 49: Cilebut
+c 50: Bogor
+c 51: Mampang
+c 52: Sudirman
+c 53: Karet
+c 54: Tanah Abang
+c 55: Palmerah
+c 56: Kebayoran
+c 57: Pondok Raji
+c 58: Jurangmangu
+c 59: Sudimara
+c 60: Rawa Buntu
+c 61: Serpong
+c 62: Cisauk
+c 63: Cicayur
+c 64: Parung Panjang
+c 65: Cilejit
+c 66: Daru
+c 67: Tenjo
+c 68: Tigaraksa
+c 69: Cikoya
+c 70: Maja
+c 71: Citeras
+c 72: Rangkas Bitung
+c 73: Cikini
+c 74: Gondangdia
+c 75: Gambir
+c 76: Juanda
+c 77: Sawah Besar
+c 78: Mangga Besar
+c 79: Jayakarta
+c 80: Jakarta Kota
